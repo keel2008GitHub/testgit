@@ -1,8 +1,4 @@
 I'm a  modifed.
 I'm a modified2.
 I'm b  modified.
-<<<<<<< HEAD
-I'm b modified2 I'm a modified 3.
-=======
 I'm b modified2 i'm b modified3.
->>>>>>> 1b31a5f5753e2d7938b663eb601afbbf13a53406
